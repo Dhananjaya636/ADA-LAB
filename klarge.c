@@ -55,3 +55,19 @@ printMax(arr,n,k);
 
 return 0;
 }
+
+
+output:
+
+
+enter the number of elemnts5
+enter the element1
+enter the element2
+enter the element3
+enter the element4
+enter the element5
+enter the k4
+the smallest elemt is 4
+	
+	
+

@@ -57,6 +57,9 @@ return 0;
 }
 
 
+output:
+
+
 ENTER THE NUMBER OF ELEMENTS TO INSERT INTO THE ARRAY:
 4
 

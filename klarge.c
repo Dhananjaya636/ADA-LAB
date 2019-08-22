@@ -57,17 +57,28 @@ return 0;
 }
 
 
-output:
+ENTER THE NUMBER OF ELEMENTS TO INSERT INTO THE ARRAY:
+4
 
+ENTER THE ELEMENTS OF THE ARRAY:
+1
+2
+3
+4
 
-enter the number of elemnts5
-enter the element1
-enter the element2
-enter the element3
-enter the element4
-enter the element5
-enter the k4
-the smallest elemt is 4
+ENTER THE NUMBER OF MAX ELEMENTS:
+3
+
+SORTED ARRAY:
+
+1
+2
+3
+4
+MAXIMUM ELEMETS ARE:
+4
+3
+
 	
 	
 
